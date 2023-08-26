@@ -1,4 +1,11 @@
 body {
     background: silver;
     font-style: oblique;
-  }
+}
+* {
+    text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
